@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std
+int main()
+{
+  cout<<"Hello World"; //Prints Hello World on screen.
+  return 0;
+}
